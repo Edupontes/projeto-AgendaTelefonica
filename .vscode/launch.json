@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CrudprojectApplication<crudproject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.poocrudproject.crudproject.CrudprojectApplication",
+            "projectName": "crudproject",
+            "args": ""
+        }
+    ]
+}
